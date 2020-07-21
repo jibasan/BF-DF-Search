@@ -3,6 +3,7 @@
 You are to provide a Java class that implements the breadth-first search algorithm and another that implements the depth-first search algorithm. 
 
 Both classes have the following features
+
 • a constructor that takes four arguments:
   1. a complete Map object, encoding the map to be searched
   2. a String providing the name of the starting location
